@@ -1,0 +1,49 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+#logo{
+    height: 10%;
+    width: 5%;
+}
+#map{
+    height: 20px;
+    width: 20px;
+}
+#flag{
+    height: 20px;
+    width: 20px; 
+}
+.header{
+    background-color: black;
+    padding: 20%;
+    padding-bottom: 0%;
+}
+
+#search{
+    height: 100%;
+    width: 50%;
+    padding: 1%;
+}
+.topnav{
+    color:black;
+    text-align:left;
+    padding-inline: 1%;
+}
+#icon{
+    height: 20px;
+    width: 20px; 
+}
+#cart{
+    height: 20px;
+    width: 20px;   
+}
+#ham{
+    height: 20px;
+    width: 20px;   
+}
+#img1{
+    height: 100px;
+    width: 100px;   
+}
